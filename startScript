@@ -1,1 +1,4 @@
 npm install mysql
+mkdir configs
+cd configs
+// create db.js
