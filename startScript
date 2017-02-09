@@ -2,3 +2,4 @@ npm install mysql
 mkdir configs
 cd configs
 // create db.js
+// http://stackoverflow.com/questions/30545749/how-to-provide-a-mysql-database-connection-in-single-file-in-nodejs
